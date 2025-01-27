@@ -1,0 +1,102 @@
+PS D:\Collections_EngineeringDicent> git init
+Initialized empty Git repository in D:/Collections_EngineeringDicent/.git/
+PS D:\Collections_EngineeringDicent> git add .
+warning: in the working copy of 'java-collection-framework-master/BockingQueueDemo.java', LF will be replaced by CRLF the next time Git touches it    
+warning: in the working copy of 'java-collection-framework-master/ComparableDemo.java', LF will be replaced by CRLF the next time Git touches it      
+warning: in the working copy of 'java-collection-framework-master/ConcurrentHashMapDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/ConcurrentLinkedDequeDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/ConcurrentSkipListMapDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/CopyOnWriteArrayListDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/CopyOnWriteArraySetDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/DelayQueueDemo.java', LF will be replaced by CRLF the next time Git touches it      
+warning: in the working copy of 'java-collection-framework-master/DequeDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/EnumMapDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/GC.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/Hash.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/HashCodeAndEqualsMethod.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/HashMapDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/HashtableDemo.java', LF will be replaced by CRLF the next time Git touches it       
+warning: in the working copy of 'java-collection-framework-master/IdentityHashMapDemo.java', LF will be replaced by CRLF the next time Git touches it 
+warning: in the working copy of 'java-collection-framework-master/ImmutableMapDemo.java', LF will be replaced by CRLF the next time Git touches it    
+warning: in the working copy of 'java-collection-framework-master/IteratorDemo.java', LF will be replaced by CRLF the next time Git touches it        
+warning: in the working copy of 'java-collection-framework-master/Java8Demo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/LRUCache.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/LinkedHashMapDemo.java', LF will be replaced by CRLF the next time Git touches it   
+warning: in the working copy of 'java-collection-framework-master/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/PriorityQueueDemo.java', LF will be replaced by CRLF the next time Git touches it   
+warning: in the working copy of 'java-collection-framework-master/QueueDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/SetOverview.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/SortedMapDemo.java', LF will be replaced by CRLF the next time Git touches it       
+warning: in the working copy of 'java-collection-framework-master/StackDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/SynchronousQueueDemo.java', LF will be replaced by CRLF the next time Git touches itwarning: in the working copy of 'java-collection-framework-master/TaskSubmissionSystem.java', LF will be replaced by CRLF the next time Git touches itwarning: in the working copy of 'java-collection-framework-master/Test.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/VectorDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/WeakHashMapDemo.java', LF will be replaced by CRLF the next time Git touches it     
+warning: in the working copy of 'java-collection-framework-master/stream/CollectorsDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/stream/IntermediateOps.java', LF will be replaced by CRLF the next time Git touches 
+it
+warning: in the working copy of 'java-collection-framework-master/stream/LazyEvaluationDemo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/stream/Pawarning: in the working copy of 'java-collection-framework-master/stream/PrimitiveStreams.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'java-collection-framework-master/stream/StreamDemo.java', LF will be replaced by CRLF the next time Git touches it   
+warning: in the working copy of 'java-collection-framework-master/stream/TerminalOps.java', LF will be replaced by CRLF the next time Git touches it  
+PS D:\Collections_EngineeringDicent> git commit -m "Collection code by EngineeringDicent Sir "
+[main (root-commit) f00b498] Collection code by EngineeringDicent Sir
+ 41 files changed, 1960 insertions(+)
+ create mode 100644 ArrayList1.class
+ create mode 100644 ArrayList1.java
+ create mode 100644 java-collection-framework-master/BockingQueueDemo.java 
+ create mode 100644 java-collection-framework-master/ComparableDemo.java   
+ create mode 100644 java-collection-framework-master/ConcurrentHashMapDemo.java
+ create mode 100644 java-collection-framework-master/ConcurrentLinkedDequeDemo.java
+ create mode 100644 java-collection-framework-master/ConcurrentSkipListMapDemo.java
+ create mode 100644 java-collection-framework-master/CopyOnWriteArrayListDemo.java
+ create mode 100644 java-collection-framework-master/CopyOnWriteArraySetDemo.java
+ create mode 100644 java-collection-framework-master/DelayQueueDemo.java   
+ create mode 100644 java-collection-framework-master/DequeDemo.java        
+ create mode 100644 java-collection-framework-master/EnumMapDemo.java      
+ create mode 100644 java-collection-framework-master/GC.java
+ create mode 100644 java-collection-framework-master/Hash.java
+ create mode 100644 java-collection-framework-master/HashCodeAndEqualsMethod.java
+ create mode 100644 java-collection-framework-master/HashMapDemo.java      
+ create mode 100644 java-collection-framework-master/HashtableDemo.java    
+ create mode 100644 java-collection-framework-master/IdentityHashMapDemo.java
+ create mode 100644 java-collection-framework-master/ImmutableMapDemo.java 
+ create mode 100644 java-collection-framework-master/IteratorDemo.java     
+ create mode 100644 java-collection-framework-master/Java8Demo.java        
+ create mode 100644 java-collection-framework-master/LRUCache.java
+ create mode 100644 java-collection-framework-master/LinkedHashMapDemo.java create mode 100644 java-collection-framework-master/Main.java
+ create mode 100644 java-collection-framework-master/PriorityQueueDemo.java create mode 100644 java-collection-framework-master/QueueDemo.java        
+ create mode 100644 java-collection-framework-master/SetOverview.java      
+ create mode 100644 java-collection-framework-master/SortedMapDemo.java    
+ create mode 100644 java-collection-framework-master/StackDemo.java        
+ create mode 100644 java-collection-framework-master/SynchronousQueueDemo.java
+ create mode 100644 java-collection-framework-master/TaskSubmissionSystem.java
+ create mode 100644 java-collection-framework-master/Test.java
+ create mode 100644 java-collection-framework-master/VectorDemo.java       
+ create mode 100644 java-collection-framework-master/WeakHashMapDemo.java  
+ create mode 100644 java-collection-framework-master/stream/CollectorsDemo.java
+ create mode 100644 java-collection-framework-master/stream/IntermediateOps.java
+ create mode 100644 java-collection-framework-master/stream/LazyEvaluationDjava
+ create mode 100644 java-collection-framework-master/stream/PrimitiveStreams.java
+ create mode 100644 java-collection-framework-master/stream/StreamDemo.java create mode 100644 java-collection-framework-master/stream/TerminalOps.java
+PS D:\Collections_EngineeringDicent> git remote add origin https://github.com/Anika-del/Collections_EngineeringDicent.git
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+PS D:\Collections_EngineeringDicent> git push --set-upstream origin main   
+Enumerating objects: 45, done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (45/45), done.
+Writing objects: 100% (45/45), 23.43 KiB | 1.23 MiB/s, done.
+Total 45 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), done.
+To https://github.com/Anika-del/Collections_EngineeringDicent.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS D:\Collections_EngineeringDicent> git push
+Everything up-to-date
+PS D:\Collections_EngineeringDicent>
